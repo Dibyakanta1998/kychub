@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import { UserOutlined } from "@ant-design/icons";
 import { Avatar, Flex, Typography } from "antd";
 const { Title } = Typography;

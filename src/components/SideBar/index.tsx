@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import { SideBarRoutesConfig } from "../../types/Layout";
 import { useNavigate } from "react-router-dom";
 import { Menu } from "antd";
